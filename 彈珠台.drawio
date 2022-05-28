@@ -1,1 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T06:24:45.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="17.4.2" etag="M9Q0Epb-ff0lmjW0OjBa" type="github"><diagram id="Heet0y_ZZvFV5jE3zWjl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-28T06:38:20.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="V47kT58YI97FLXFFauuS" version="17.4.2" type="github">
+  <diagram id="Heet0y_ZZvFV5jE3zWjl" name="第1頁">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G-MsBqWM7R55xd_iGupe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="G-MsBqWM7R55xd_iGupe-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G-MsBqWM7R55xd_iGupe-1" value="&lt;font style=&quot;font-size: 25px&quot;&gt;開始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="324" y="20" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-MsBqWM7R55xd_iGupe-18" value="按下啟動鈕" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="324" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
